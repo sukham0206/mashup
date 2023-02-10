@@ -34,11 +34,11 @@ EMAIL_HOST_PASSWORD = config("EMAIL_HOST_PASSWORD")
 # SECURITY WARNING: don't run with debug turned on in production!
 
 
-DEBUG = False
+DEBUG = True
 
 # DEBUG = True
 
-ALLOWED_HOSTS = ['sukham02.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
